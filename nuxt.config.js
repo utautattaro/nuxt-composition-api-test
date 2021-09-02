@@ -4,7 +4,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '%s - sdtc',
-    title: 'sdtc',
+    title: 'nuxt-composition-api',
     htmlAttrs: {
       lang: 'en'
     },
