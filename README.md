@@ -1,4 +1,4 @@
-# sdtc
+# nuxt-composition-api
 
 ## Build Setup
 
